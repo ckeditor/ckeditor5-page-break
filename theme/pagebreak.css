@@ -27,6 +27,7 @@
 	text-transform: uppercase;
 	border: 1px solid var(--ck-color-toolbar-border);
 	border-radius: var(--ck-border-radius);
+	font-family: var(--ck-font-face);
 	font-size: var(--ck-font-size-small);
 	font-weight: bold;
 	color: var(--ck-color-base-text);
